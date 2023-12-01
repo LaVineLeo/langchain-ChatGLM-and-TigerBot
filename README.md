@@ -221,10 +221,6 @@ Web UI 可以实现如下功能：
   - [ ] 实现调用 API 的 Web UI Demo
 - [x] VUE 前端
 
-## 项目交流群
-![二维码](img/qr_code_30.jpg.png)
-
-🎉 langchain-ChatGLM-TigerBot 项目交流群,如果遇到什么安装上的问题。可以在群里咨询。
 
 [本项目 windows环境部署 手把手教学安装视频 制作中……]
 [纯TigerBot项目 windows环境部署 手把手教学安装视频](https://www.bilibili.com/video/BV1Ru411a7Kq)
